@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body { */
+    /* background-color: #ffcbdb; Pink background color */
+/* } */
+
+/* Add this style if the border is not showing */
+/* .shop-box {
+    border-width: 1px;
+} */
