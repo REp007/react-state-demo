@@ -15,7 +15,7 @@ For other components and code, navigate directly to the respective directories f
 
 1. clone the Repository
 ```bash
-git clone [<repository_url>](https://github.com/REp007/react-state-demo)
+git clone https://github.com/REp007/react-state-demo
 ```
 2. Navigate to the Project Directory
 ```bash
