@@ -9,6 +9,16 @@ For other components and code, navigate directly to the respective directories f
 
 
 
+---
+# Exercise 2: Product Panel Exam Code
+
+Explore the Product Panel source code below:
+
+[Product Panel Source Code](./src/components/Store)
+
+
+
+
 
 ## Follow to set up and run the project on your machine
 
