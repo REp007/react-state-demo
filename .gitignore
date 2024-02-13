@@ -27,3 +27,4 @@ dist-ssr
 src/components/*
 !src/components/Form/
 !src/components/FormByJS/
+!src/components/Store/

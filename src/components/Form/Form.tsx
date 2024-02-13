@@ -33,7 +33,6 @@ const Form = () => {
         if (type === 'checkbox') {
 
             //  type assertion
-
             const isChecked = (e.target as HTMLInputElement).checked;
             let listComptences = [...personne.competences];
     
